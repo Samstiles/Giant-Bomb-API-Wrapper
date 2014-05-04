@@ -1,3 +1,5 @@
-# GBAPI
 
-a [Sails](http://sailsjs.org) application
+GiantBombAPIThing-V2
+====================
+
+VERSION TWO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
